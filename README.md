@@ -148,4 +148,3 @@ Contributions are welcome! Please refer to the [contribution guidelines](CONTRIB
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
